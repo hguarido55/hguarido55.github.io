@@ -1,4 +1,4 @@
-# hguarido55.github.io
+# Archivo Readme - Página Web Hugo Guarido Domínguez - Primero de Ingeniería Informática, Grupo C
 
 Este proyecto consiste de una página web como parte de una práctica de la asignatura Fundamentos de Ingeniería Informática. Esta página web ha sido creada por Hugo Guarido Domínguez, estudiante de primero (Grupo C) de Ingeniería Informática en la UFV. 
 
